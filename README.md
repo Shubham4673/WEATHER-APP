@@ -14,6 +14,8 @@ The Weather App is a simple application that provides weather information for va
 - Display temperature in Celsius or Fahrenheit
 - Responsive design
 
+##clone:
+  https://github.com/Shubham4673/WEATHER-APP.git
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the code style and include tests for any new features.
